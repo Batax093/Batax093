@@ -80,10 +80,10 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/batax093/Capstone_Project)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/batax093/django-crm)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/batax093/web-projects)
-[![Fredrik Readme](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=batax093&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/batax093/Covid-SQL-Project)
+[![Covid Predictions](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/batax093/Capstone_Project)
+[![Django CRM](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/batax093/django-crm)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/batax093/Web-Profile)
+[![SQL Data Exploration](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=batax093&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/batax093/Covid-SQL-Project)
 
 <p align="left">
   <a href="https://github.com/batax093?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
