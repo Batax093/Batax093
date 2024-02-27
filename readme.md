@@ -80,10 +80,10 @@
 <br/>
 
 ## My Projects -
-[![Covid Predictions](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=batax093&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)(https://github.com/Batax093/Capstone_Project)
-[![Django CRM](https://github.com/Batax093/django-crm)
-[![Web Projects](https://github.com/Batax093/Web-Profile)
-[![SQL Data Exploration](https://github.com/Batax093/COVID-SQL-Project)
+[![Covid Predictions](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Batax093/Capstone_Project)
+[![Django CRM](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Batax093/django-crm)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Batax093/Web-Profile)
+[![SQL Data Exploration](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=batax093&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Batax093/Covid-SQL-Project)
 
 <p align="left">
   <a href="https://github.com/batax093?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
