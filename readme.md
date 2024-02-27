@@ -66,7 +66,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: batax093.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: fredrikspakpahan@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/batax093/batax093/issues)
 
 </p>
