@@ -52,10 +52,12 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: fredrikspakpahan@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/batax093/batax093/issues)
+ ✌️ &emsp; Senang melakukan pemrograman dan berbagi pengetahuan <br/><br/>
+ ❤️ &emsp; Senang menulis kode dan mempelajari fitur-fitur baru<br/><br/>
+ 📄 &emsp; Know about my portfolio [here](https://www.canva.com/design/DAF9HHS79cg/VefmtsY_sLpkqmmniMIA9g/view?utm_content=DAF9HHS79cg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+ 📧 &emsp; Hubungi saya kapan saja!: fredrikspakpahan@gmail.com<br/><br/>
+ 💬 &emsp; Tanya saya tentang apa saja [here](https://github.com/batax093/batax093/issues)
+ ⚡ Fun fact Saya suka MH Franchise
 
 </p>
 
@@ -79,11 +81,6 @@
 
 <br/>
 
-## My Projects -
-[![Covid Predictions](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Batax093/Capstone_Project)
-[![Django CRM](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Batax093/django-crm)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Batax093/Web-Profile)
-[![SQL Data Exploration](https://github-readme-stats.vercel.app/api/pin/?username=batax093&repo=batax093&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Batax093/Covid-SQL-Project)
 
 <p align="left">
   <a href="https://github.com/batax093?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
