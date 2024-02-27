@@ -54,10 +54,10 @@
   
  ✌️ &emsp; Senang melakukan pemrograman dan berbagi pengetahuan <br/><br/>
  ❤️ &emsp; Senang menulis kode dan mempelajari fitur-fitur baru<br/><br/>
- 📄 &emsp; Know about my portfolio [here](https://www.canva.com/design/DAF9HHS79cg/VefmtsY_sLpkqmmniMIA9g/view?utm_content=DAF9HHS79cg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+ 📄 &emsp; Know about my portfolio [here](https://www.canva.com/design/DAF9HHS79cg/VefmtsY_sLpkqmmniMIA9g/view?utm_content=DAF9HHS79cg&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br/><br/>
  📧 &emsp; Hubungi saya kapan saja!: fredrikspakpahan@gmail.com<br/><br/>
- 💬 &emsp; Tanya saya tentang apa saja [here](https://github.com/batax093/batax093/issues)
- ⚡ Fun fact Saya suka MH Franchise
+ 💬 &emsp; Tanya saya tentang apa saja [here](https://github.com/batax093/batax093/issues)<br/><br/>
+ ⚡ Fun fact Saya suka MH Franchise<br/><br/>
 
 </p>
 
