@@ -30,7 +30,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack student from <b>UPN Veteran East Java</b> 」
+    「 I am a student from <b>UPN Veteran East Java</b> 」
     <br>
     <br>
   </samp>
